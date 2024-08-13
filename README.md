@@ -1,7 +1,7 @@
 
 The easy way to host your resume is by making a `resume.json` on gist.github.com. 
 
-For example mine can be found at https://gist.github.com/thomasdavis/c9dcfa1b37dec07fb2ee7f36d7278105 which then automatically gets hosted at https://registry.jsonresume.org/thomasdavis 
+For example [Thomas Davis resume](https://github.com/thomasdavis) can be found at https://gist.github.com/thomasdavis/c9dcfa1b37dec07fb2ee7f36d7278105 which then automatically gets hosted at https://registry.jsonresume.org/thomasdavis 
 
 You can just edit your Gist using the online GUI and it should update within less than a minute. 
 
@@ -11,7 +11,7 @@ If you would like to have your `resume.json` in a repository aka like this.
 
 You can set up a Github Action that automatically updates your gist `resume.json` to match what is in your repo everytime you push. 
 
-If you checkout the `.github/workflows/gist.yml` file you should be able to figure it out with relative ease. Or feel free to ping me an issue. 
+If you checkout the `.github/workflows/gist.yml` file you should be able to figure it out with relative ease. Or feel free to ping [Thomas Davis](https://github.com/thomasdavis) an issue. 
 
 The basic steps are 
 
