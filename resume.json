@@ -3,234 +3,654 @@
     "theme": "elegant"
   },
   "basics": {
-    "name": "Thomas Davis",
-    "label": "Web Developer",
-    "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
-    "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
-    "website": "https://lordajax.com",
-    "email": "thomasalwyndavis@gmail.com",
+    "name": "Amaury Van Espen",
+    "label": "Consultant Data. BI (Business Intelligence) - Décisionnel | SAP & Microsoft | Distribution et Logistique | Manufacturing, Supply & Retail",
+    "image": "",
+    "email": "vanespen.amaury@gmail.com",
+    "phone": "0033663051423",
+    "url": "https://gravatar.com/avatar/22064228229d737b142217f77c754af1",
+    "summary": "Actuellement j’occupe un poste au sein d'une société de services, delaware Consulting France, spécialiste dans la mise en place de solutions de gestion intégrée de l'information. \nNous vous aidons à \n-\tindustrialiser vos processus métiers\n-\ttirer parti de la richesse de l'information \n-\tconstruire avec vous des outils performants d'aide à la prise de décision.\nJe propose à mes clients une diversité de compétences, aujourd'hui plus que nécessaire dans des environnements à la fois dynamiques et mouvants. Mon parcours atypique est orienté par une forte culture opérationnelle ainsi qu'un attrait pour la formation continue. Je suis dans d’une posture d’apprentissage constant pour mieux satisfaire vos attentes avec des outils et méthodes robustes.\nMon parcours est marqué par les sciences de gestion et le management, spécialisé dans le PME/PMI, avec une dimension recherche. J’ai pratiqué le Contrôle de Gestion, statistiques, ainsi que le Droit Comptable et Financier. J'utilise les connaissances et postures entrepreneuriales pour animer les projets et équipes à l'image d'une petite entreprise, grâce à mes premières expériences en tant que chef d'entreprise. \nPrécédemment, j'évoluais au sein d'un groupe de représentation d'intérêts, en charge notamment du pilotage administratif et financier en étroite collaboration avec la direction. Contribuant également aux prises de décisions stratégiques ainsi qu’à leur mise en œuvre, j'ai pris plaisir à apporter outils et méthodes ainsi qu'une vision différente de la gouvernance.\n\nAujourd'hui orienté \"data\", j'œuvre grâce à quelques compétences techniques dans les systèmes d'information à accompagner les responsables dans la prise de décision et les actions opérationnelles. J'assiste la maîtrise d'ouvrage dans la conception et me charge de la maîtrise d'œuvre et des analyses avec un soin particulier à la qualité.\n\nJe souhaite continuer dans cette voie technico-fonctionnelle, en y apportant le meilleur de moi-même, de mes compétences acquises et à venir, pour votre plus grande satisfaction.\n\nSpécialités: \n- Consultation en Organisation et Management Stratégique\n- Intégration de systèmes d'aide à la prise de décision\n- Automatisation et reporting.\n\nAu-delà des activités opérationnelles, je reste passionné par la triptyque : Intelligence Stratégique, Intelligence Collective, Intelligence Économique et réalise une veille importante sur ces sujets ainsi qu’en matière d’innovation.",
     "location": {
-      "city": "Melbourne",
-      "countryCode": "AU"
+      "countryCode": "FR",
+      "address": "France"
     },
     "profiles": [
       {
-        "username": "ajaxdavis",
-        "url": "https://twitter.com/ajaxdavis",
-        "network": "twitter"
+        "network": "LinkedIn",
+        "username": "amauryvanespen",
+        "url": "https://www.linkedin.com/in/amauryvanespen/"
       },
       {
-        "url": "https://github.com/thomasdavis",
-        "username": "thomasdavis",
-        "network": "github"
+        "network": "Twitter",
+        "username": "AmauryVanEspen",
+        "url": "https://twitter.com/AmauryVanEspen"
       }
     ]
   },
-  "education": [
-    {
-      "endDate": "2009-12-12",
-      "startDate": "2008-02-12",
-      "area": "Software Engineering (incomplete)",
-      "studyType": "Bachelors",
-      "institution": "The University of Queensland"
-    }
-  ],
-  "references": [
-    {
-      "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team.",
-      "name": "Joey Flores, Co-founder and CEO of Earbits, Inc."
-    },
-    {
-      "reference": "I've had the great pleasure of working with Thomas for the past three years at Earbits, and on a few side projects. Two years ago our CTO left on a moment's notice, Thomas saved our company by quickly stepping up to fill this role. He has been with our company through thick and thin and made serious personal sacrifices in order to help the company during tough times. He is a phenomenal hacker and a true team player. Highly recommended!",
-      "name": "Yotam Rosenbaum, SVP of Operations, Earbits, Inc."
-    },
-    {
-      "reference": "Thomas is an extremely talented engineer with a very broad range of skills and experience. From being a thought leader in the front-end community via backbonetutorials.com and cdnjs.com, to designing and implementing the API for cdnjs.com, working with Thomas has been fantastic learning experience. Thomas is truly a full stack develop, and his work output is incredible. If there is any opportunity to work with Thomas, I take it. He is the definition of an A player.",
-      "name": "Ryan Kirkman, Senior Software Engineer at Nerdwallet"
-    },
-    {
-      "reference": "On Thomas Davis... Hire this guy. Do not be fooled. Incredibly capable and fast. Plays well with others. Unbelievable at front-end work end programming but that is just the start. Visionary. Hire him before I do.",
-      "name": "Greg Davis"
-    }
-  ],
-  "skills": [
-    {
-      "keywords": [
-        "HTML / JSX",
-        "SCSS / CSS / BEM / Styled Components",
-        "Javascript / Typescript",
-        "React / Next",
-        "Redux / Apollo"
-      ],
-      "level": "Senior",
-      "name": "Frontend"
-    },
-    {
-      "keywords": ["Node", "Ruby", "Python", "Postgres", "Redis", "Serverless"],
-      "level": "Senior",
-      "name": "Backend"
-    },
-    {
-      "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
-      "level": "Senior",
-      "name": "Devops"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Defender of the Internet",
-      "awarder": "Fight For The Future"
-    }
-  ],
   "work": [
     {
-      "summary": "Tokenized is a Bitcoin wallet for issuing, managing and trading digital tokens. I built out the front end which was packaged as an electron app. It was a difficult frontend to build because we store the users keys locally and used them to sign transactions and contracts.",
-      "website": "https://tokenized.com/",
-      "name": "Tokenized",
-      "location": "Melbourne",
-      "position": "Senior Javascript Developer",
-      "startDate": "2020-05-05",
-      "highlights": ["React", "Redux", "SCSS", "Product"]
+      "name": "delaware International",
+      "position": "Consultant SAP",
+      "startDate": "2017-06-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "As SAP Consultant, I'm Designing & Modeling InfoObject, Mapping and Building it from back to front the next gen BI dashboard Tools & Technologies.\n\nMoreover, I'm Involved in :\n- Implementation of SAP Customer Activty Repository on Brownfield and Greenfield landscape\n- Customizing SAP CAR Point Of Sales Data Management (POSDM)\n- Interfacing SAP CAR Point Of Sales Data Transfer & Audit (POS DTA) for Phygital Retail Solution\n- Customizing SAP Supply Chain Management - Forecast & Replenishment (SAP SCM F&R)\n- Building custom data model for SAP SCM Extended Warehouse Management\n- Customizing SAP ECC (ERP Central Component - Material Management)\n- Monitoring and Mapping Specification for SAP Process Integration / Process Orchestration (SAP PI/PO)\n- Enchancement of IDOC and ABAP scripting\n- Building Monitoring & Alerting Custom App for Sales & Quantities gap in data sets\n- Performance Analysis et Optimisation\n- SAP HANA and SAP Business Warehouse Modelisation\n- Design SAP Analytics Cloud Dashboards from various sources :\n- Data Warehouse Cloud\n- Amazon S3 files server and Redshift databases\n\nin large companies managing more than 1500+ stores in 50+ countries and 70+ Warehouses\n\nFinally, I've been involved to set up few deployment pipelines, including Git, Talend, Python and R, Jenkins as Data Sciences and Machine Learning Operations team member.",
+      "url": "https://www.delaware.pro",
+      "location": "Lille Area, France"
     },
     {
-      "summary": "Blockbid is an Australian crypto currency exchange. I started off on the frontend but eventually became lead tech and worked on every moving piece of the exchange. I really enjoyed working with liquidity providers and connecting their platforms to help us achieve liquid markets.",
-      "website": "https://platform.blockbid.io",
-      "name": "Blockbid",
-      "location": "Melbourne",
-      "position": "Senior Javascript Developer",
-      "startDate": "2018-03-01",
-      "endDate": "2020-01-01",
-      "highlights": [
-        "React, Apollo, Styled Components",
-        "Node.js / Rails",
-        "Docker / Heroku / GCP",
-        "Used Figma for design and UX work",
-        "Optimizing markets with tens of millions of rows using SQL."
+      "name": "Institut International de Prospective sur les Écosystèmes Innovants",
+      "position": "Mandataire",
+      "startDate": "2015-04-30",
+      "endDate": "2017-06-30",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "AG2R LA MONDIALE",
+      "position": "Software Asset Manager",
+      "startDate": "2013-12-31",
+      "endDate": "2014-12-31",
+      "highlights": [],
+      "summary": "En qualité de contrôleur de gestion, je suis en charge du reporting concernant l'acquisition, l'installation et l'utilisation des ressources logicielles de l'entreprise et de ses filiales.\nAnalyse des contrats,\nRéférencement des logiciels\nVentilation et analyse systémique des modèles de commercialisation\nConception, réalisation et exploitation d'une base de données de licence\nConception et réalisation des visualisations pour le reporting stratégique et opérationnel\nConception des agents de collecte et des métriques d'usage",
+      "url": "https://www.ag2rlamondiale.fr",
+      "location": "Lille Area, France"
+    },
+    {
+      "name": "Jeunesses En Europe | Youth In Europe",
+      "position": "Représentant au sein de la délégation Française",
+      "startDate": "2012-09-30",
+      "endDate": "2013-06-30",
+      "highlights": [],
+      "summary": "Voir Projet \"Jeunesses En Europe | Youth In Europe - Projet Européen Jeunesse en Action (PEJA)\"\n\nContribution à la pertinence des contenus thématiques et à la participation des réseaux d'acteurs.\nSuggestion dans l'animation des séances de travail.\nAppui technique sur les dispositifs et l'utilisation des outils numériques pour le travail co-élaboratif.\nAmélioration des méthodes et modes de communication entre jeunes investis et équipes européennes.\nCouverture du plan média.",
+      "url": ""
+    },
+    {
+      "name": "Fédération Européenne des Ordres Infirmiers",
+      "position": "Policy & Press Officer",
+      "startDate": "2012-05-31",
+      "endDate": "2012-08-31",
+      "highlights": [],
+      "summary": "Gestion du Secrétariat Social et Administratif\nManagement de l'Information et Veille (Actualités, Politique, Juridique)\nGestion de la Comptabilité et de la Trésorerie - ONG\nTravaux préparatoires au Lobbying\nCollaboration & Contributions au Management Stratégique de l'Organisation",
+      "url": "https://enc-eu.org"
+    },
+    {
+      "name": "European Higher Engineering and Technical Professionals Association",
+      "position": "Policy & Press Officer",
+      "startDate": "2012-05-31",
+      "endDate": "2012-08-31",
+      "highlights": [],
+      "summary": "Gestion du Secrétariat Administratif\nManagement de l'Information et Veille (Actualités, Politique, Juridique)\nTravaux préparatoires au Lobbying",
+      "url": "https://eureta.org"
+    },
+    {
+      "name": "Conseil Européen des Professions Libérales",
+      "position": "Project Manager",
+      "startDate": "2012-01-31",
+      "endDate": "2012-08-31",
+      "highlights": [],
+      "summary": "Gestion du Secrétariat Social et Administratif\nManagement de l'Information et Veille (Actualités, Politique, Juridique)\nGestion de la Comptabilité et de la Trésorerie - ONG\nTravaux préparatoires au Lobbying\nCollaboration & Contributions au Management Stratégique de l'Organisation",
+      "url": "https://www.ceplis.org"
+    },
+    {
+      "name": "SMENO",
+      "position": "Responsable et Animateur des équipes des Intervention & Prévention",
+      "startDate": "2010-04-30",
+      "endDate": "2011-10-31",
+      "highlights": [],
+      "summary": "- Responsable des Interventions : Intervenant - Management d'Unités Commerciales (Formation et suivi des conseillers) - Gestion logistique de la campagne.\n- Prévention : Alcool/Tabac/Stupéfiant - Relations Sexuelles et Affectives - Hygiène de Vie.",
+      "url": "https://smeno.com",
+      "location": "Nord - Pas-De-Calais, France"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Conseil Lillois de la Jeunesse (CLJ)",
+      "position": "Conseiller",
+      "startDate": "2010-12-31",
+      "endDate": "2014-12-31",
+      "summary": "Le Conseil Lillois de la Jeunesse est l'une des instances représentative au sein de l'initiative de démocratie participative de la Ville de Lille.\nDe nombreux projets et actions d'insertion, de communication et d'influence des politiques publiques ont été conçues et mises en œuvre au travers de l'énergie déployer par la jeunesse lilloise et les équipes de la ville ainsi que les élu(e)s.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/73406174"
+    },
+    {
+      "organization": "Crous de Lille Nord-Pas-de-Calais",
+      "position": "Administrateur",
+      "startDate": "2014-12-31",
+      "endDate": "2016-12-31",
+      "summary": "Le Centre Régional des Oeuvres Universitaires et Scolaires anime la vie universitaire et des étudiants de l'enseignement supérieur au travers de son réseau de restauration, d'hébergement, de santé et services sociaux, d'infrastructures sportives, culturelles et de loisirs.\nAdministrateur est une fonction de supervision et de contrôle de la bonne gestion et de la gouvernance des ressources et emplois. Le réseau des œuvres réalise avec ses ressources propres et subventions des prouesses pour offrir à chacun un cadre d'étude et de vie satisfaisant en continuant de développer des projets innovants au profit du plus grand nombre mais aussi et surtout des moins aisés.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/71242420"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPSI",
+      "area": "Information Technology",
+      "studyType": "Post Master",
+      "startDate": "2017-12-31",
+      "endDate": "2017-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Institut d'Administration des Entreprises",
+      "area": "Management Control",
+      "studyType": "Master's degree",
+      "startDate": "2011-12-31",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Télécom SudParis",
+      "area": "Computer Systems Networking and Telecommunications",
+      "studyType": "MOOC",
+      "startDate": "2014-12-31",
+      "endDate": "2014-12-31",
+      "score": "Apprenant",
+      "courses": []
+    },
+    {
+      "institution": "IAE Valenciennes",
+      "area": "Sciences du Management, Management des Organisations, Entrepreneuriat et Management des PMI/PME",
+      "studyType": "Master",
+      "startDate": "2011-12-31",
+      "endDate": "2013-12-31",
+      "score": "",
+      "courses": [
+        "Les Acteurs Externes de l'Accompagnement",
+        "Comptabilité Générale et Analytique",
+        "Analyse des Problematiques Organisationnelles",
+        "Droit des Affaires & des Sociétés",
+        "Analyse et Diagnostic Financier",
+        "Marketing des Produits et des Services",
+        "L'Accompagnement Stratégique des PME",
+        "Gestion des Ressources Humaines",
+        "Développement Structurel de la PME/PMI",
+        "Développement de la Conduite du Changement",
+        "Méthodologie de Recherche",
+        "Macro et Micro Economie",
+        "Manager les Équipes dans les PME/PMI",
+        "Analyse des Systèmes",
+        "Management Interculturel",
+        "Management des Risques",
+        "Analyse des Systemes de Gestion",
+        "Analyse des Problemes Economiques",
+        "Entrepreneuriat",
+        "Contrôle de Gestion"
       ]
     },
     {
-      "highlights": [
-        "Worked with Postgres, Redis and Dynamodb for storage.",
-        "Hosted on a mixture of Heroku Apps and EC2 servers.",
-        "Caching by Fastly and Cloudflare",
-        "Hybrid app supported on all platforms"
-      ],
-      "summary": "Built a very large and complex React / Redux application. It works on all platforms and has IOS/Android builds due to it being a PWA. (wrapped it in React Native though only implementing a WebView)",
-      "website": "https://listium.com",
-      "pinned": true,
-      "name": "Listium",
-      "position": "Developer",
-      "startDate": "2016-01-01",
-      "endDate": "2018-01-01"
+      "institution": "IAE Toulouse, Ecole de Management de l'Université Toulouse 1 Capitole",
+      "area": "Méthodologie de recherche - méthodes qualitatives & quantitatives",
+      "studyType": "Post Master - MsC Management",
+      "startDate": "2015-12-31",
+      "endDate": "2016-12-31",
+      "score": "",
+      "courses": []
     },
     {
-      "highlights": [
-        "Millions of sites use the CDN in production",
-        "Larger market share than Yahoo's, Microsoft's and Google's javascript content distribution networks",
-        "We serve hundreds of billions request a month",
-        "Contains over 3000 popular Javascript libraries",
-        "Millions of developers visit the site per year"
-      ],
-      "pinned": true,
-      "summary": "Following Google's CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
-      "website": "http://www.cdnjs.com",
-      "name": "Cdnjs",
-      "position": "Co-Founder",
-      "startDate": "2011-01-08"
+      "institution": "Open ClassRoom",
+      "area": "Information Technology",
+      "studyType": "MOOC",
+      "startDate": "2014-12-31",
+      "endDate": "2014-12-31",
+      "score": "Apprenant",
+      "courses": []
     },
     {
-      "highlights": [
-        "Developed new tools for contacting congress",
-        "Brainstormed campaign ideas to raise maximum awareness about issues",
-        "Lots of social networking integration"
-      ],
-      "summary": "Hired to take EFF's campaigning to the next level by building an action centre in Ruby on Rails. The action centre is built around some large open source tools that lower the barrier to entry when contacting congress.",
-      "website": "http://www.eff.org",
-      "name": "Electronic Frontier Foundation",
-      "position": "Developer",
-      "startDate": "2014-04-01",
-      "endDate": "2016-01-01"
+      "institution": "ESGI",
+      "area": "Computer and Information Sciences and Support Services",
+      "studyType": "MOOC",
+      "startDate": "2014-12-31",
+      "endDate": "2014-12-31",
+      "score": "Certified",
+      "courses": []
     },
     {
-      "highlights": [
-        "Managed a small team of developers and designers",
-        "Built the entire frontend application with Backbone.js",
-        "Transferred all of the infrastructure from Heroku to AWS"
-      ],
-      "summary": "Started off as a front end developer but took on the role of CTO in early 2013. The application frontend is built with Javascript and organized as a single page application that talks to a collection of Rails web servers which are connected to MongoDB.",
-      "website": "http://www.earbits.com",
-      "name": "Earbits",
-      "position": "CTO",
-      "endDate": "2015-01-09",
-      "startDate": "2013-03-08"
+      "institution": "Ecole centrale de Lille",
+      "area": "Gestion de Projets",
+      "studyType": "MOOC",
+      "startDate": "2013-12-31",
+      "endDate": "2013-12-31",
+      "score": "Apprenant",
+      "courses": []
     },
     {
-      "highlights": ["This resume is built with JSON Resume", "Over 3000 stars on Github", "Community developed themes", "Tens of thousands of users"],
-      "summary": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
-      "website": "http://jsonresume.org",
-      "pinned": true,
-      "name": "JSON Resume",
-      "position": "Founder",
-      "startDate": "2014-04-01"
-    },
-    {
-      "highlights": [
-        "Generated  37,000,000 banner views",
-        "100, 000 phone calls to congress",
-        "500, 000 emails",
-        "250, 000 signatures"
-      ],
-      "summary": "Worked on many politically charged campaigns against mass surveillance. Not only technically challenging work but also a lot of networking and getting my hands dirty with politics.    Our biggest project was \"TheDayWeFightBack\"..",
-      "website": "http://www.taskforce.is",
-      "name": "Taskforce.is",
-      "position": "Developer",
-      "startDate": "2013-06-01",
-      "endDate": "2016-01-01"
-    },
-    {
-      "highlights": [
-        "The site and blog combined have managed to receive over 200,000 visitors in 2014."
-      ],
-      "summary": "An international directory of civilian drone / UAV operators for hire. Services include aerial photography, aerial video, mapping, surveying, precision agriculture, real estate photography, remote inspections and infrared imaging. Our plan is to be the place to go when looking for UAV/Drone services. The website is built in Backbone.js and API is built with Node.js and Postgres. ",
-      "website": "http://www.dronehire.org",
-      "name": "Drone Hire",
-      "position": "Co-Founder",
-      "startDate": "2013-01-01"
-    },
-    {
-      "highlights": [
-        "Over two million unique visitors a year",
-        "25,000+ ebook downloads",
-        "300,000+ Youtube views"
-      ],
-      "summary": "I write tutorials and blog post regarding the popular Javascript framework Backbone.js. The tutorials cover a range of topics regarding front end development aimed at beginners, experts and anyone in between.",
-      "website": "http://backbonetutorials.com",
-      "name": "BackboneTutorials.com",
-      "position": "Founder",
-      "startDate": "2011-01-01",
-      "endDate": "2014-01-01"
-    },
-    {
-      "summary": "Ephox is a worldwide company who is heavily involved with the development of TinyMce and enterprise editors. My primary role included building front-end widgets and applications. Worked on a major product using Backbone.js as a base. Heavily involved in UI/UX design and wire-framing. Also spend a lot of time designing API specifications and documentation.",
-      "website": "http://ephox.com",
-      "name": "Ephox",
-      "position": "Front-end Developer",
-      "endDate": "2012-06-01",
-      "startDate": "2011-01-01"
+      "institution": "Université de Valenciennes et du Hainaut-Cambrésis",
+      "area": "Management",
+      "studyType": "Master's degree",
+      "startDate": "2011-12-31",
+      "endDate": "2014-12-31",
+      "score": "Alumni",
+      "courses": []
     }
   ],
-  "interests": [
+  "awards": [],
+  "certificates": [
     {
-      "name": "Gardening"
+      "name": "CLES II Anglais - Certificat de compétences en langue de l'enseignement supérieur, Anglais, du Cadre Européen Commun de Référence",
+      "issuer": "UVHC - Université de Valenciennes et du Haut Cambrésis",
+      "startDate": "2012-06-30"
     },
     {
-      "name": "Music / Jamming"
+      "name": "EDCL/PCIE - European Computer Driving Licence/Passeport de Compétences Informatique Européen",
+      "issuer": "European Computer Driving Licence Fondation",
+      "startDate": "2011-05-31"
     },
     {
-      "name": "Reading / Writing"
+      "name": "edX Certificate for Découvrir la science politique",
+      "issuer": "edX",
+      "url": "https://s3.amazonaws.com/verify.edx.org/downloads/d69a32f62e0540df81df5d775e4e3aff/Certificate.pdf"
     },
     {
-      "name": "Open Source"
+      "name": "Introduction to R",
+      "issuer": "DataCamp",
+      "startDate": "2017-02-28",
+      "url": "https://www.datacamp.com/courses/free-introduction-to-r?utm_source=LinkedIn&utm_medium=Certificate&utm_content=Certificate&utm_campaign=Linkedin-Certificate"
+    },
+    {
+      "name": "SAP Leonardo - Enabling the Intelligent Enterprise",
+      "issuer": "SAP",
+      "startDate": "2018-08-31",
+      "url": "https://open.sap.com/verify/xesib-kelad-zomit-vikyb-tutys"
+    },
+    {
+      "name": "SAP Leonardo Design-Led Engagements Demystified",
+      "issuer": "SAP",
+      "startDate": "2018-08-31",
+      "url": "https://open.sap.com/verify/xeder-razih-nadur-dulyr-lomuk"
+    },
+    {
+      "name": "The Impact of Digitization on Leadership and Work",
+      "issuer": "SAP",
+      "startDate": "2017-04-30",
+      "url": "https://open.sap.com/verify/xebok-zityc-dadeb-vykev-nivit"
+    },
+    {
+      "name": "SAP Solution Manager for SAP S/4HANA Implementation in a Nutshell",
+      "issuer": "SAP",
+      "startDate": "2017-04-30",
+      "url": "https://open.sap.com/verify/xudor-hihyg-bozyn-fypap-pakob"
+    },
+    {
+      "name": "Getting Started with SAP BusinessObjects Roambi",
+      "issuer": "SAP",
+      "startDate": "2017-04-30",
+      "url": "https://open.sap.com/verify/xuger-dibef-tusam-cufih-hufih"
+    },
+    {
+      "name": "Spatial Analysis with SAP HANA Platform",
+      "issuer": "SAP",
+      "startDate": "2017-04-30",
+      "url": "https://open.sap.com/verify/xezet-secad-mycym-tydih-disub"
     }
-  ]
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "SAP BI",
+      "level": "Expert",
+      "keywords": ["BI"]
+    },
+    {
+      "name": "Spatial Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spatial Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spatial Data Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Blockchain",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SAP Enable Now",
+      "level": "",
+      "keywords": ["SAP"]
+    },
+    {
+      "name": "Application Programming Interfaces (API)",
+      "level": "",
+      "keywords": ["IT"]
+    },
+    {
+      "name": "Operations Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spatial Modeling",
+      "level": "",
+      "keywords": ["Data Modeling"]
+    },
+    {
+      "name": "Policy Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Public Relations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SAP HANA",
+      "level": "",
+      "keywords": ["SAP"]
+    },
+    {
+      "name": "Management Consulting",
+      "level": "",
+      "keywords": ["Management"]
+    },
+    {
+      "name": "Marketing Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "API",
+      "level": "",
+      "keywords": ["IT"]
+    },
+    {
+      "name": "Business Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "REST APIs",
+      "level": "",
+      "keywords": ["IT"]
+    },
+    {
+      "name": "Strategic Communications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Social Media",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Intelligence (BI)",
+      "level": "",
+      "keywords": ["BI"]
+    },
+    {
+      "name": "API Development",
+      "level": "",
+      "keywords": ["IT"]
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Leadership",
+      "level": "",
+      "keywords": ["Management", "Leadership"]
+    },
+    {
+      "name": "Intelligence Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Accounting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Services API",
+      "level": "",
+      "keywords": ["IT"]
+    },
+    {
+      "name": "Budgeting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SAP Model Company",
+      "level": "",
+      "keywords": ["SAP"]
+    },
+    {
+      "name": "Data Visualization",
+      "level": "",
+      "keywords": ["Data Vizaulization"]
+    },
+    {
+      "name": "IT Strategy",
+      "level": "",
+      "keywords": ["IT"]
+    },
+    {
+      "name": "SAP Business Technology Platform",
+      "level": "",
+      "keywords": ["SAP", "BTP"]
+    },
+    {
+      "name": "API Testing",
+      "level": "",
+      "keywords": ["IT", "Test Management"]
+    },
+    {
+      "name": "Data Warehousing",
+      "level": "",
+      "keywords": ["SAP", "Data Storage", "Data Modeling"]
+    },
+    {
+      "name": "SAP BTP",
+      "level": "",
+      "keywords": ["SAP", "BTP"]
+    },
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Planning",
+      "level": "",
+      "keywords": ["Planning"]
+    },
+    {
+      "name": "SAP Integrated Business Processes",
+      "level": "",
+      "keywords": ["SAP", "Business Processes"]
+    },
+    {
+      "name": "Strategic Consulting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Relations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process Management",
+      "level": "",
+      "keywords": ["Management","Business Processes"]
+    },
+    {
+      "name": "Business Intelligence",
+      "level": "",
+      "keywords": ["BI"]
+    },
+    {
+      "name": "Postman API",
+      "level": "",
+      "keywords": ["IT"]
+    },
+    {
+      "name": "Strategic Planning",
+      "level": "",
+      "keywords": ["Management", "Planning"]
+    },
+    {
+      "name": "Risk Management",
+      "level": "",
+      "keywords": ["Management"]
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": ["Management", "Planning"]
+    },
+    {
+      "name": "Business Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Intercultural Management",
+      "level": "",
+      "keywords": ["Management"]
+    },
+    {
+      "name": "Competitive Intelligence",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Building",
+      "level": "",
+      "keywords": ["Management"]
+    },
+    {
+      "name": "SAP Implementation",
+      "level": "",
+      "keywords": ["SAP", "Project Management", "Planning"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "Anglais"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Espagnol"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Français"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Langues des Signes - Française"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "ANTHONY ALONGI",
+      "reference": "Une capacité de travail exemplaire, une analyse fine et efficace. Organisation et méthode sont les maîtres mots pour définir Amaury. "
+    },
+    {
+      "name": "Thomas Broussaud",
+      "reference": " had the pleasure of meeting Amaury when I was investigating regional Innovation environment and stakeholders. He provided useful and accurate insights in regard to current innovation policies, opportunities and constraints. He proved to show leadership and strong ability to trigger actions, motivate and support several collaborative efforts in a non profit framework aiming at fostering cross-fertilization and filling the gap between academics and private sector, which is consistent with his positive attitude against status-quo. He is also very proactive and has acquired a adequate knowledge and skills in several domains which he manages to put into perspective toward actionable solutions. He is always ready to take initiatives as soon as he has targeted major issues to address, which is an added-value in our current fast-paced environment. Last but not the least, Amaury is a reliable partner and advisor you can trust."
+    },
+    {
+      "name": "Fatoumata Kanté",
+      "reference": "J’ai eu le plaisir de travailler avec Amaury. Il a été d’une grande aide en data analyse sur  SAP BW et m’a pas mal conseillé lors de la rédaction de mon mémoire. "
+    },
+    {
+      "name": "Jean-luc GREBAUT",
+      "reference": "J'ai eu l'occasion de croiser Amaury chez Decathlon pour ses demandes d'accès sur SAP. \nIl a un grand soucis du détail et connait parfaitement son sujet. \nj'ai apprécié sa disponibilité et son sens du relationnel. \nToujours prêt à apporter son expertise sur les domaines qu'il maitrise.\nJ'ai toujours un réel plaisir de travailler avec lui."
+    },
+    {
+      "name": "Lloyd Oliver DMello(On H1B visa)",
+      "reference": "Amaury holds a strong knowledge in providing solution to the queries. Confident and good person. "
+    },
+    {
+      "name": "Julien Bouret",
+      "reference": "J’ai eu le plaisir d’avoir Amaury en tant que participant au module « Communication professionnelle » dans le cadre de sa formation SAP à l’EPSI.  Sa participation et son implication ont réellement contribué à la richesse de l’expérience de formation. En partageant notamment ses expériences professionnelles, Amaury a contribué à mettre en avant les enjeux du développement des soft skills dans le cadre d’une communication professionnelle. C’est donc sans hésitation que je recommande son professionnalisme. "
+    },
+    {
+      "name": "Ludovic Bu",
+      "reference": "J'ai connu Amaury alors qu'il était bénévole pour l'association que je présidais. J'ai toujours eu grand plaisir à aller sur le terrain avec lui, qui était très impliqué et un véritable moteur pour ses équipes. Ensemble, nous avons fait du joli travail de sécurité routière et de mise en place de covoiturage sur des événements festifs. Encore merci à lui !"
+    },
+    {
+      "name": "Karine Zaborowski",
+      "reference": "Amaury possède une expertise impressionnante sur les enjeux de communication (stratégie,veille, proactivité sur les réseaux sociaux)\r\nSon intérêt pour les travaux d'intelligence collective en font un partenaire de qualité."
+    },
+    {
+      "name": "Guillaume Bruna",
+      "reference": "Dans le cadre du projet \"Jeunesse en Action\" organisé par le CRIJ, j'ai eu l'occasion de travailler avec Anaury Van Espen. Sérieux et engagé, Amaury fait partie de ces personnalités necessaires à la dynamique de groupe et a montré la force de ses compétences en termes de team building et de management. Il sait user habilement de son relationnel, de sa connaissance des réseaux sociaux et de son expérience pour parfaire au maximum le produit de son travail et de sa coopération avec ses collègues. Nul doute qu'il s'agit d'un partenaire sur qui l'on peut compter au sein d'un équipe, et ce sur n'importe quel type de projet."
+    }
+  ],
+  "projects": [
+    {
+      "name": "SAPZero2Hero",
+      "startDate": "2019-12-31",
+      "summary": "Following the SAP Zero-2-Hero journey, take part in a knowledge sharing adventure with passionates, experts and involved professionals within various vertical industries. Not yet in ? let's visit us\n\nHere we are sharing knowledge about SAP Integration. Our missions are help SAP Beginner from “Zero to Hero” knowledge then they can help SAP Beginner community.",
+      "url": "https://sapzero2hero.com/"
+    },
+    {
+      "name": "Apprenance 3D",
+      "startDate": "2013-11-30",
+      "summary": null,
+      "url": "http://apprenance3d.org/",
+      "endDate": "2013-11-30"
+    },
+    {
+      "name": "Manifeste de l'Intelligence Collective",
+      "startDate": "2013-03-31",
+      "summary": "Mobiliser l’IC, c’est mettre en synergie les modalités de fonctionnement des discussions au sein d’un groupe de personnes pour qu’elles soient plus stimulantes, opérantes et créatives. Il s’agit de faire en sorte que chacun donne le meilleur de lui-même et se sente faire partie intégrante du groupe. Mais aussi, que chacun ait conscience de faire partie d’un tout avec les autres membres, et d’avoir un rôle important à jouer dans le groupe. L’IC peut être mise au profit d’un changement de culture organisationnelle ou communautaire, d’une recherche de solutions de performance et d’efficacité ou de partage et de création de nouvelles connaissances.\nSi le principe général de ces engagements passe par un nouvel apprentissage des relations, nous savons que sa réalisation ne peut se décréter, ni être imposée, mais résulte d’une action transformatrice créative et inventive. Elle doit toucher les structures internes de nos comportements et modifier les rapports aux autres. D’une manière non exhaustive, nous soutenons que cette action doit viser à récapituler l’ensemble des règles qui convergent vers un dialogue qui favorise la reconnaissance des talents et des rôles, les prises de conscience qui ne peuvent être faites dans la mobilisation de l’intelligence collective.\nNotre but est de favoriser l’expression des idées et règles fonctionnelles reconnues comme nouveau levier du changement et de développer la capacité à voir collectivement. Notre action vise à développer et à soutenir les expériences de mobilisation de l’intelligence collective dans tous les domaines de la pensée, des arts et des savoirs.\nCréation d’un observatoire des disciplines de l’intelligence collective, la création d’un référentiel de l’IC, la production d’un livre blanc de l’IC globale, la mise en œuvre d’un manifeste des règles de l’intelligence collective, un outil de quotient d’intelligence collective et enfin un livre sur les invariants de l’IC ou l’ADN de l’intelligence collective.",
+      "url": "http://ifcic.blogspot.fr/2013/03/manifeste-de-lintelligence-collective.html"
+    },
+    {
+      "name": "Jeunesses En Europe | Youth In Europe - Projet Européen Jeunesse en Action (PEJA)",
+      "startDate": "2012-09-30",
+      "summary": "Dans le but de favoriser la mobilité européenne et internationale, l’action consiste à effectuer un travail commun de réflexion entre jeunes européens autour d’une thématique du quotidien : La jeunesse, l'employabilité et la mobilité. #JeunessesEnEurope\n\nLe travail de réflexion a pris forme lors de réunions bimensuelles. Un processus d'Intelligence Collective prenant forme peu à peu a permis un enrichissement mutuel des participants. Les réunions de travail se sont faites entre groupes nationaux afin d’avancer sur la thématique transversale choisie. D'autres réunions de travail se sont organisées sous forme de \nvisioconférence pour un temps d’échange avec les autres jeunes à l'international. Le travail est mutualisé, étape par étape, par les comptes-rendus établis par chaque encadrant national et mis en commun sur une plate-forme collaborative internet (une agora). \nLes encadrants nationaux du projet (deux par ville, soit 10 référents) se sont réunis à Lille début octobre 2012 afin de baliser les pistes et les méthodes de travail, puis en Mars 2013 pour un premier bilan et recadrage ainsi que la planification stratégie de l'événement de Mai 2013 : la restitution en présence des Euro-Députés des régions participants au projet.\n\nAu terme du travail de réflexion, une rencontre entre jeunes européens est prévue la semaine du 11 au 17 mai 2013 à Lille. Le but de cette semaine est d’aboutir à une synthèse générale des différentes propositions formulées par les jeunes. Le 15 mai une restitution du travail accompli est organisée sous la forme d’une simulation d’une séance du Parlement européen qui se tiendra dans l'hémicycle institutionnel du Conseil Régional du Nord Pas de Calais.\n\nLa finalité du projet se concrétise par la rédaction d'un Livre Blanc, ainsi que d'une résolution qui sera soumise au Parlement Européen.\n\nUn retour d'expérience, sous forme de vidéo de nos expériences, en collaboration avec l'association KOAN sera disponible à compter de septembre 2013.",
+      "url": "http://www.crij-npdc.fr/site/?page_id=2533"
+    },
+    {
+      "name": "Conférence-Débat \"Réformes de la Carte Judiciaire\"",
+      "startDate": "2008-02-28",
+      "summary": "Organisation de la Conférence-Débat \"Réformes de la Carte Judiciaire\" le Mercredi 13 février 2008 à 18 heures - Faculté Libre de droit, Lille - Salle des Actes, dans le cadre du partenariat Prophètes du Droit - Fédération des Etudiants.\n\nEn présence de :\nM. Alexis MASSART - Doyen de la Faculté Libre de Droit \nM. Philippe LEMAIRE - Procureur de la République \nMe Didier CATTOIR - Ancien Bâtonnier à Hazebrouck \n\nLe projet a été une vive réussite en présence de la presse, de personnalité de la région et d'une forte mobilisation des étudiants pour cet événement. Plus de 200 participants grâce notamment à l'engagement des équipes pédagogiques et administratives dans ce projet.\n\nMerci aux intervenants et à Lille Place Juridique de leurs implications et contributions.",
+      "url": null,
+      "endDate": "2008-02-28"
+    },
+    {
+      "name": "Conférence \"Métiers de l’Entrepreneuriat et du Management\"",
+      "startDate": "2011-09-30",
+      "summary": "En charge de l'équipe et du projet, en collaboration avec Perrine Daubeuf, dans le cadre du cycle de conférence \"Le Management et ses Métiers\", les étudiants de Master Entrepreneuriat et Management de l’Institut d’Administration des Entreprises ont organisés une conférence intitulée \"Métiers de l’Entrepreneuriat et du Management\" à l'IAE de Valenciennes.\n\nUn projet réussi et riche en connaissance, honoré par la présence de la presse et de nombreux professionnels venu témoigner ou participer aux échanges.",
+      "url": "http://www.univ-valenciennes.fr/IAE/conference-debat-sur-les-metiers-de-l-entrepreneuriat-et-du-management-jeudi-24-novembre-10-h-aux-te",
+      "endDate": "2011-12-31"
+    },
+    {
+      "name": "Soutien à \"Aide Tatalon\"",
+      "startDate": "2009-10-31",
+      "summary": "Dans le cadre de mes fonctions de Vice-Président de la Fédération des Etudiants (La FEDE), nous avons ensemble répondu présent à l'appel de nos anciens membres pour les soutenir depuis la France dans leur action à Manille.\nNous sommes un groupe de 15 étudiants de différents pays, résidant actuellement à Manille pour un échange universitaire. Ils ont participé aux opérations de secours qui ont suivi le passage de la tempête \"Ketsana\" le 26 Septembre 2009. Ils décidé de se mobiliser pour un bidonville en particulier - Tatalon.\nC'est une course contre la montre pour organiser une conférence de presse, en collaboration avec la Fondation de Lille et l'Université Catholique de Lille (UCL). Ainsi que de concrétiser des partenariats locaux en France afin d'organiser une levée de fonds rapide et efficace grâce à la CIC-BSD, Babyloan, Entrepreneurs du Monde en faveur de l'INNER CITY DEVELOPMENT COOPERATIVE (ICDC).\n\nManagement des opérations - Lille.\n- Réalisation de plaquettes projets.\n- Élaboration et mise en oeuvre d'un plan de communication (TV, Radio, Web, Conférence de Presse).\n- Négociation des partenariats.",
+      "url": "https://sites.google.com/site/aidetatalon/home",
+      "endDate": "2009-11-30"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
 }
