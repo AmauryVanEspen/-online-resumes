@@ -1,22 +1,22 @@
 {
-  "name": "thomasdavis",
+  "name": "amauryvanespen",
   "version": "1.0.0",
-  "description": "This is the resume of Thomas Davis. God of web development.",
+  "description": "This is the resume of Amaury VAN ESPEN. Forked from Thomas Davis, God of web development npm package.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomasdavis/resume.git"
+    "url": "git+https://github.com/AmauryVanEspen/online-resumes.git"
   },
   "keywords": [
     "resume"
   ],
-  "author": "Thomas Davis",
+  "author": "Amaury VAN ESPEN",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thomasdavis/resume/issues"
+    "url": "https://github.com/AmauryVanEspen/resume/issues"
   },
-  "homepage": "https://github.com/thomasdavis/resume#readme"
+  "homepage": "https://github.com/AmauryVanEspen/resume#readme"
 }
