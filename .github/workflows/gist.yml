@@ -12,7 +12,7 @@ jobs:
     - name: Update Resume Gist
       uses: exuanbo/actions-deploy-gist@v1.1.4
       with:
-        token: ${{ secrets.TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
         gist_id: 6569cfc574c7d75f0c5c191342f8f637
         gist_description: "Amaury Van Espen Resume"
         file_path: resume.json
